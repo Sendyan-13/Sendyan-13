@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Sendyan Abdallah, Fullstack developer, Graphic designer , currently living in <img src="https:Note: flag imge" width="13"/> <b>Saudi Arabia</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> 
+  <img alt="JAVA" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> 
   <img alt="Flatter" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="mySQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
