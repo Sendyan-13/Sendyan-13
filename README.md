@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Sendyan Abdallah, Fullstack developer, currently living in <img src="https://wikimedia.org" alt="علم المملكة العربية السعودية" width="13"/> <b>Saudi Arabia</b>. </p>
+<p>Welcome to my page! </br> I'm Sendyan Abdallah, Fullstack developer, currently living in <img src="https://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia#/media/File:Flag_of_Saudi_Arabia.svg" width="13"/> <b>Saudi Arabia</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
