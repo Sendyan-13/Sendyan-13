@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Sendyan Abdallah, Fullstack developer, currently living in <img src="https:Note: flag imge" width="13"/> <b>Saudi Arabia</b>. </p>
+<p>Welcome to my page! </br> I'm Sendyan Abdallah, Fullstack developer, Graphic designer , currently living in <img src="https:Note: flag imge" width="13"/> <b>Saudi Arabia</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="JAVA" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
+  <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> 
   <img alt="Flatter" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="mySQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
